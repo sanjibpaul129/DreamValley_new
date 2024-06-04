@@ -1,0 +1,21 @@
+
+.mobile-shw{display:none;}
+
+.sticky nav.navbar.navbar-inverse {
+    height: 50px;
+}
+.sticky img {
+    width: 50px !important;
+}
+
+.sticky .navbar-nav a {
+    line-height: 3.8 !important;
+}
+
+#about, #overview, #location, #flat-tour, #construction, #views {
+    padding: 5em 0;
+}
+
+@media(min-width:320px) and (max-width: 767px){
+	.mobile-shw{display:block;}
+}

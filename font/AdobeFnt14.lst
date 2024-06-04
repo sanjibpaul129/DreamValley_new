@@ -1,0 +1,64 @@
+%!Adobe-FontList 1.14
+%Locale:0x4009
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\projects\dream valley\Font\dinregularwebfont-bg.png
+FileModTime:1600440890
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\projects\dream valley\Font\dinregularwebfont-thumb.png
+FileModTime:1600440893
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\projects\dream valley\Font\dinregularwebfont.eot
+FileModTime:1600440866
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\projects\dream valley\Font\dinregularwebfont.png
+FileModTime:1600440897
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DIN-Regular
+FamilyName:DIN
+StyleName:Regular
+FullName:DIN Regular
+MenuName:DIN
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\projects\dream valley\Font\dinregularwebfont.ttf
+DataFormat:sfntData
+FileLength:31692
+FileModTime:1600440874
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\projects\dream valley\Font\dinregularwebfont.woff
+FileModTime:1600440876
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\projects\dream valley\Font\font.css
+FileModTime:1600440902
+%EndFont
+
